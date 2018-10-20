@@ -3,7 +3,7 @@ Apriltags demo
 
 *Incomplete!*
 
-### *Author:Ellis* 
+### *Mender:Ellis* 
 ### *USTB*
 ### *elliszkn@163.com*
 
